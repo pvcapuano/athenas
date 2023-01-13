@@ -1,0 +1,31 @@
+{
+  "employee": [
+    {
+      "id": 2,
+      "name": "Ricky Ponting",
+      "email": "rp@in.com"
+    },
+    {
+      "id": 3,
+      "name": "Robert",
+      "email": "robert@in.com"
+    },
+    {
+      "id": 4,
+      "name": "Kane Williamson",
+      "email": "kw@in.com"
+    },
+    {
+      "name": "asdas",
+      "email": "asdas",
+      "active": true,
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "teste",
+      "email": "teas",
+      "phone": "asd"
+    }
+  ]
+}
